@@ -1,0 +1,24 @@
+{
+  "name": "nuxt-app",
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@julr/unocss-preset-forms": "^0.0.5",
+    "@nuxt/devtools": "latest",
+    "@types/node": "^18.17.3",
+    "@unocss/nuxt": "^0.55.3",
+    "@vueuse/core": "^10.4.0",
+    "@vueuse/nuxt": "^10.4.0",
+    "nuxt": "^3.7.0",
+    "unocss-preset-scrollbar": "^0.2.1"
+  },
+  "dependencies": {
+    "maplibre-gl": "^3.3.0"
+  }
+}
