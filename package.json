@@ -19,6 +19,6 @@
     "unocss-preset-scrollbar": "^0.2.1"
   },
   "dependencies": {
-    "maplibre-gl": "^3.3.0"
+    "maplibre-gl": "^4.0.0"
   }
 }
