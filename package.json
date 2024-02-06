@@ -11,7 +11,7 @@
   "devDependencies": {
     "@julr/unocss-preset-forms": "^0.0.5",
     "@nuxt/devtools": "latest",
-    "@types/node": "^18.17.3",
+    "@types/node": "^20.0.0",
     "@unocss/nuxt": "^0.55.3",
     "@vueuse/core": "^10.4.0",
     "@vueuse/nuxt": "^10.4.0",
